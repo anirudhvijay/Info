@@ -537,7 +537,6 @@
     </head>
 
     <body class="home page-template-default page page-id-5 wp-custom-logo crt crt-layers-1 crt-nav-on crt-nav-type2 crt-main-nav-off crt-side-box-on crt-sidebar-on" data-color="#000066">
-        <!-- <script type="text/javascript" color="255,0,0" pointColor="255,0,0" opacity='0.9' zIndex="-2" count="500" src="dist/canvas-nest.js"></script> -->
         <div class="crt-wrapper">
             <header id="crtHeader" class="crt-logo-in">
                 <nav id="crtNavSm" class="crt-nav hidden-lg hidden-md">
@@ -626,8 +625,9 @@
                                     <div class="row">
                                         <div class="col-sm-12 clear-mrg text-box">
                                             <h2 class="title-lg">Hello, I’m Anirudh!</h2>
-                                            <p>I am a Software Developer at ORACLE. My passion lies in understanding the complex security problems and developing more secure, risk-free and efficient systems. Apart from solving problems I like photography & travelling. I completed my B.Tech. in Computer Science and Engineering from NIT Warangal in 2017.
+                                            <p>I am a Software Developer at ORACLE. I like to solve problems, travelling and photography. My passion lies in understanding the complex security platforms and developing more secure, risk-free and efficient systems. I completed my B.Tech. in Computer Science and Engineering from NIT Warangal in 2017.
                                             </p>
+
                                         </div>
                                     </div>
                                 </section>  
@@ -636,11 +636,8 @@
                     </div>
 
                     <div class="crt-paper-layers crt-animate">
-
                         <div class="crt-paper clear-mrg clearfix">
-
                             <div class="crt-paper-cont paper-padd clear-mrg">
-
                                 <section id="exp" class="section padd-box brd-btm">
                                     <h2 class="title-lg text-upper">Experience</h2>
                                     <div class="education">
@@ -654,6 +651,7 @@
                                                 <h2 class="education-company">Oracle Corporation, Bangalore</h2>
                                             </a>
                                         </div>
+                                        <!-- Working as an Applications Developer at Oracle Applications Lab for CPQ/CTO team. -->
                                         <li>Planned, analysed, designed, implemented, deployed and supported the quoting application CPQ
                                         based on a true DevOps model of Systems development life cycle.</li>
                                         <li> Increased the query response time by moving the CPQ integration from GSI to Fusion environment.
@@ -719,7 +717,6 @@
                 </section>
 
                 <section id="skills" class="section padd-box brd-btm">
-
                     <div class="row">
                         <div class="col-sm-12 clear-mrg">
                             <h3 class="title-thin text-muted">Technical Skills</h3>
@@ -930,7 +927,7 @@
     <div class="crt-container">
         <div class="crt-container-sm clear-mrg text-center">
             <div class="egg">
-                <p id="one">Anirudh Vijay @ All Rights Reserved 2020</p>
+                <p id="one">Anirudh Vijay @ All Rights Reserved 2019</p>
             </div>
         </a>
     </div>
@@ -1004,7 +1001,6 @@
         }
     </script>
     <script type="text/javascript" src="designer/wp-content/cache/minify/2/0a8c8.js"></script>
-    <script type="text/javascript" color="255,0,0" pointColor="0,0,0" opacity='0.7' zIndex="0" count="100" src="dist/canvas-nest.js"></script>
 </body>
 
 </html>
